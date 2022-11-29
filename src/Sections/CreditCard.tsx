@@ -95,7 +95,7 @@ const CreditCard = () => {
             you. You can update your style every year, for a small fee{" "}
           </p>
           <div className="flex mt-[16px] mb-[48px]">
-          <p className="min-[1440px]:hidden text-[16px] font-medium font=['Helvetica Neue']  underline">Get Started</p> <span>&nbsp; ></span>
+          <p className="min-[1440px]:hidden text-[16px] font-medium font=['Helvetica Neue']  underline">Get Started</p> <span>&nbsp; 	&gt;</span>
           </div>
         </div>
       </div>

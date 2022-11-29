@@ -2,7 +2,6 @@ import React from "react";
 import StarIcon from "../assets/StarIcon";
 import "../Components/Slider.css";
 // import Slider from "infinite-react-carousel";
-import Slider from "react-slick";
 import Carousel from "../Components/Carousel";
 
 declare global {
@@ -61,7 +60,7 @@ const Rewards = () => {
             </p>
             </div >
             <div className="flex pl-[24px] pt-[16px]">
-            <p className="min-[1440px]:hidden text-[16px] font-medium font=['Helvetica Neue']  underline">Get Started</p> <span>&nbsp; ></span>
+            <p className="min-[1440px]:hidden text-[16px] font-medium font=['Helvetica Neue']  underline">Get Started</p> <span>&nbsp; &gt;</span>
           </div>
         </div>
       </div>
