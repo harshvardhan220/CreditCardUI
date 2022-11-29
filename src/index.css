@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "~react-image-gallery/styles/css/image-gallery.css";
+:root,
+body {
+  margin: 0 auto;
+  padding: 0;
+  overflow-x: hidden;
+}
